@@ -1,0 +1,9 @@
+name: SolarPing
+version: ${project.version}
+main: gg.solarmc.solarping.SolarPing
+authors: [ Ariel01, Bloedarend ]
+description: First plugin, simple /ping that returns player ping
+website: solarmc.gg
+commands:
+  ping:
+      description: return player ping
