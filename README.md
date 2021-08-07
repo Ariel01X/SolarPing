@@ -1,0 +1,2 @@
+# SolarPing
+Simple ping plugin
